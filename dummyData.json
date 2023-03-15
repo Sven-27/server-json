@@ -1,0 +1,199 @@
+{
+  "inspections": [
+    {
+      "idType": "#IS",
+      "id": 2006487,
+      "name": "Duplex woning",
+      "address": "Leeuwerikstraat 1",
+      "zipcode": "1234 AB",
+      "city": "Amsterdam",
+      "date": "2023-04-07",
+      "completed": false,
+      "surveyOfDamage": {
+          "location": "Dak",
+          "newDamage": "Nieuwe schade",
+          "typeOfDamage": "Slijtage",
+          "date": "2023-04-07",
+          "requiredAction": "Direct actie ondernemen",
+          "description": "Dakbeschot vervangen wegens rotte plekken"
+        },
+      "overdueMaintenance": {
+          "location": "Badkamer",
+          "typeOfMaintenance": "schilderwerk, tegels",
+          "requiredAction": "In later stadium",
+          "estimatedCost": "500-1.500"
+        },
+      "technicalInstallation": {
+          "location": "Meterkast gang",
+          "typeOfInstallation": "Meterkast vervangen",
+          "reportedFailures": "Knoppen van meterkast functioneren niet naar behoren",
+          "testProcedure": "link naar pdf....",
+          "approved": "Afgekeurd",
+          "comments": "Meterkast voldoet niet meer aan de huidige eisen"
+        },
+      "modifications": {
+          "existingDocs": "link naar pdf...",
+          "location": "Keuken",
+          "carriedOutBy": "Huurder",
+          "actionToTake": "Accepteren",
+          "description": "Keukenkastjes niet orgineel"
+        }
+      },
+    {
+      "idType": "#IS",
+      "id": 2006488,
+      "name": "Rijtjes woning",
+      "address": "RembrandtStraat 28",
+      "zipcode": "5378 GH",
+      "city": "Utrecht",
+      "date": "2022-10-23",
+      "completed": false,
+      "surveyOfDamage": {
+          "location": "Woonkamer",
+          "newDamage": "Bestaande schade",
+          "typeOfDamage": "Moedwillig",
+          "date": "2022-10-23",
+          "requiredAction": "Direct actie ondernemen",
+          "description": "Vloer moet opnieuw geegaliseerd worden"
+        },
+      "overdueMaintenance": {
+          "location": "Tuin",
+          "typeOfMaintenance": "Stal vervangen en opnieuw bestraten",
+          "requiredAction": "acute actie",
+          "estimatedCost": "1.500+"
+        },
+      "technicalInstallation": {
+          "location": "Ventilatie badkamer",
+          "typeOfInstallation": "Ventilatie raam",
+          "reportedFailures": "Gaat niet meer open",
+          "testProcedure": "link naar pdf....",
+          "approved": "Afgekeurd",
+          "comments": "Ventilatie vraagt om onderhoud"
+        },
+      "modifications": {
+          "existingDocs": "link naar pdf...",
+          "location": "Toilet",
+          "carriedOutBy": "Onbekend",
+          "actionToTake": "Laten verwijderen",
+          "description": "Tegels zijn vervangen door kunststof wand"
+        }
+      },
+      {
+        "idType": "#IS",
+        "id": 2006489,
+        "name": "Flat",
+        "address": "Kerkstraat 1",
+        "zipcode": "8724 DC",
+        "city": "Leeuwarden",
+        "date": "2023-03-01",
+        "completed": false,
+        "surveyOfDamage": {
+          "location": "Woonkamer",
+          "newDamage": "Nieuwe schade",
+          "typeOfDamage": "Normaal gebruik",
+          "date": "2023-03-01",
+          "requiredAction": "Kan nog wachten",
+          "description": "Plinten beschadigd"
+        },
+      "overdueMaintenance": {
+          "location": "Slaapkamer",
+          "typeOfMaintenance": "Beglazing",
+          "requiredAction": "acute actie",
+          "estimatedCost": "500-1.500"
+        },
+      "technicalInstallation": {
+          "location": "Kelder",
+          "typeOfInstallation": "Waterleiding",
+          "reportedFailures": "Waterleiding lekt",
+          "testProcedure": "link naar pdf....",
+          "approved": "afgekeurd",
+          "comments": "Leidingen moeten vervangen worden"
+        },
+      "modifications": {
+          "existingDocs": "link naar pdf...",
+          "location": "Slaapkamer",
+          "carriedOutBy": "Huurder",
+          "description": "Schrootjes tegen plafond geplakt",
+          "actionToTake": "Laten verwijderen"
+        }
+      },
+      {
+        "idType": "#IS",
+        "id": 2006490,
+        "name": "Flat",
+        "address": "Kerkstraat 34",
+        "zipcode": "8724 DC",
+        "city": "Leeuwarden",
+        "date": "2023-01-22",
+        "completed": false,
+        "surveyOfDamage": {
+          "location": "Garage",
+          "newDamage": "Nieuwe schade",
+          "typeOfDamage": "geweld",
+          "date": "2023-01-22",
+          "requiredAction": "Kan nog wachten",
+          "description": "Garagepoort is vernield"
+        },
+      "overdueMaintenance": {
+          "location": "Buiten",
+          "typeOfMaintenance": "Dakgoten",
+          "requiredAction": "acute actie",
+          "estimatedCost": "0-500"
+        },
+      "technicalInstallation": {
+          "location": "Verwarmingsketel zolder",
+          "typeOfInstallation": "Verwarming",
+          "reportedFailures": "Verwarmingsketel heeft deukjes en is bekrast",
+          "testProcedure": "link naar pdf....",
+          "approved": "Goedgekeurd",
+          "comments": "Beschadigingen tasten de werking en de veiligheid niet aan"
+        },
+      "modifications": {
+          "existingDocs": "link naar pdf...",
+          "location": "Badkamer",
+          "carriedOutBy": "Huurder",
+          "description": "2de wasbak geplaatst",
+          "actionToTake": "Accepteren"
+        }
+      },
+      {
+        "idType": "#IS",
+        "id": 2006491,
+        "name": "Bungalow",
+        "address": "Chopinlaan 22",
+        "zipcode": "2365 KK",
+        "city": "Maastricht",
+        "date": "2022-11-11",
+        "completed": false,
+        "surveyOfDamage": {
+          "location": "Gang",
+          "newDamage": "Bestaande schade",
+          "typeOfDamage": "calamiteit",
+          "date": "2022-11-11",
+          "requiredAction": "Direct actie ondernemen",
+          "description": "Schimmel op de muur"
+        },
+      "overdueMaintenance": {
+          "location": "Hele woning",
+          "typeOfMaintenance": "Stopdozen",
+          "requiredAction": "In later stadium",
+          "estimatedCost": "0-500"
+        },
+      "technicalInstallation": {
+          "location": "Beveiligingssysteem",
+          "typeOfInstallation": "Alarm",
+          "reportedFailures": "Sensoren reageren niet meer",
+          "testProcedure": "link naar pdf....",
+          "approved": "Afgekeurd",
+          "comments": "Sensoren moeten vervangen worden"
+        },
+      "modifications": {
+          "existingDocs": "link naar pdf...",
+          "location": "Stal",
+          "carriedOutBy": "Onbekend",
+          "description": "De stal is uitgebreid met een extra ruimte",
+          "actionToTake": "Laten keuren"
+        }
+    }
+  ]
+}
